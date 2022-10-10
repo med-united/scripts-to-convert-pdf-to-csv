@@ -1,10 +1,10 @@
-# Script 1 to convert PDF medication statement to CSV
+# Script 1
 
-This script - [script1.py]() - converts medication statement PDFs with the following structure (with one or more pages):
+This script - [script1.py](https://github.com/med-united/scripts-to-convert-pdf-to-csv/blob/main/script1/script1.py) - converts medication statement PDFs with the following structure (with one or more pages):
 
-![medication statement PDF page 1]()
+![medication statement PDF page 1](https://github.com/med-united/scripts-to-convert-pdf-to-csv/blob/main/script1/medication-statement-example-page1.png)
 
-![medication statement PDF page 2]()
+![medication statement PDF page 2](https://github.com/med-united/scripts-to-convert-pdf-to-csv/blob/main/script1/medication-statement-example-page2.png)
 
 ## How to run
 
